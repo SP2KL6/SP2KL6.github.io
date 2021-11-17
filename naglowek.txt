@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Klasa 6a</h1>
+
+<p>sp2.</p>
+
+</body>
+</html>
